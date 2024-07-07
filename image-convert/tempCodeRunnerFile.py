@@ -1,0 +1,1 @@
+self.root.geometry("400x300")
